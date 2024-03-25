@@ -2,7 +2,7 @@
 
 ![](bankimage.jpg)
 
-
+Link to my Dashboard (Bank Loan Project.xlsx)
 ## Links:
 Lets Connect 
 
