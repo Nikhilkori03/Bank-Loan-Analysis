@@ -1,5 +1,12 @@
 # Bank-Loan-Analysis
 
+## DASHBOARD:
+
+https://github.com/Nikhilkori03/Bank-Loan-Analysis/assets/152955475/d20d77e7-9099-43cb-a341-da859aa52561
+
+![HR Dashboard ](https://github.com/Nikhilkori03/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20Using%20Excel/Bank.png?raw=true)
+
+![HR Dashboard ](https://github.com/Nikhilkori03/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20Using%20Excel/Bank1.png?raw=true)
 
 
 <table>
