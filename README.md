@@ -34,9 +34,10 @@ In this analysis two data sets were used which contained detailed information ab
 - "Finance_2.csv"
 # Tools
 ---
-- Excel - Data Cleaning
-- MySQL - Data Analysis
-- Power BI - Creatin Reports
+- Excel
+- MySQL
+- Power BI
+- Tableau
 
 
 # Data Cleaning
