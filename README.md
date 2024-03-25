@@ -8,7 +8,7 @@ Lets Connect
 
 [Go to my LinkedIn](https://www.linkedin.com/in/nikhil-kori-31664a2a3/) 🌐
 
-[Go to my Dashboard](https://www.novypro.com/project/hr-analysis-dashboard-23)
+[Go to my Dashboard](https://www.novypro.com/profile_projects/nikhilkori)
 
 # Table of Contents
 ---
